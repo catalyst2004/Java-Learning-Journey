@@ -1,2 +1,2 @@
 # project_01
-This is my first project on github..
+This is a program on how the ATM(Automated Teller Machine) Works..
