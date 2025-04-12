@@ -5,6 +5,7 @@ int main(){
     int selection,i;
     float amount = 25000;
     float w_amount,r_balance,deposit;
+    //Introduction interface message
     printf("Welcome to Punjab National Bank!!\n");
     printf("Select any one from the following options:\n <1.Withdrawal>\t <2.Check Balance>\t <3.Deposit>\t <4.Exit>\n");
     for(i=0;i<n;i++){
