@@ -22,5 +22,9 @@ public class practise_01 {
             System.out.println("The largest number is " +third);
         }
         scn.close();
+        //Alternate ways to find largest of three without using conditional statement
+        float max = Math.max(third, (Math.max(first,second)));
+        System.out.println("The largest of three numbers given is: "+max);
     }
 }
+
